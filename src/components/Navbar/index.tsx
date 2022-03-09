@@ -21,7 +21,7 @@ function Navbar() {
                     <span className="navbar-toggler-icon"></span>
                 </button>
                 <div className="collapse navbar-collapse" id="carrotop-navbar">
-                    <ul className="navbar-nav offset-md-2 main-menu">
+                    <ul className="navbar-nav offset-md-9 main-menu">
                         <li>
                             <NavLink to="/" activeClassName='active' exact>HOME</NavLink>
                         </li>
